@@ -1,6 +1,8 @@
 
 A very bright and simple (but daily useable) theme inspired by Elegant Brit.
 
+![Preview](https://https://github.com/mcgoosh/simpliX-master/blob/main/sshot.png?raw=true)
+
 ##### Themes available:
 
 * GTK2 - depends on the gtk2 pixbuf & mist engines
