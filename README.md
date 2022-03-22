@@ -26,4 +26,6 @@ You should now be able to set the GTK2, Xfwm, Xfce-Notify, Marco and Openbox the
 desktop settings (keep in mind that the gtk2 theme has a settings file) all other themes are located in ~/.themes/simpliX/Extras
 
 **edit**
-I did not create this theme but I wanted it to live on. 
+I did not create this theme but I wanted it to live on. I also have only used the Xfwm4 version.
+
+Evan 
