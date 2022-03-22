@@ -1,7 +1,7 @@
 
 A very bright and simple (but daily useable) theme inspired by Elegant Brit.
 
-![Preview](https://github.com/mcgoosh/simpliX-master/blob/main/sshot)
+![Preview](https://github.com/mcgoosh/simpliX-master/blob/main/sshot.png)
 
 ##### Themes available:
 
